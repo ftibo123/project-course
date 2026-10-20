@@ -1,10 +1,9 @@
 
 # Kamerás kirakósegéd hiányzó puzzle-darabok kereséséhez
-Szerző: Farkas Tibor
-
-Neptun: DOHOLH  
-Témavezető: Sári Dávid  
-Projektazonosító: 2026_SD_04
+- Szerző: Farkas Tibor
+- Neptun: DOHOLH  
+- Témavezető: Sári Dávid  
+- Projektazonosító: 2026_SD_04
 
 ## Probléma
 Egy kirakó hiányzó darabjának megtalálása időigényes lehet, különösen sok hasonló alakú vagy mintázatú darab esetén.
