@@ -1,6 +1,7 @@
 
 # Kamerás kirakósegéd hiányzó puzzle-darabok kereséséhez
 Szerző: Farkas Tibor
+
 Neptun: DOHOLH  
 Témavezető: Sári Dávid  
 Projektazonosító: 2026_SD_04
